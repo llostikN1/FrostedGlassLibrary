@@ -10,11 +10,11 @@ local HttpService = game:GetService("HttpService")
 local CoreGui = game:GetService("CoreGui")
 
 local THEMES = {
-    { bg = Color3.fromRGB(85, 60, 42),  border = Color3.fromRGB(125, 95, 70),  accent = Color3.fromRGB(200, 160, 100) },
-    { bg = Color3.fromRGB(55, 72, 40),  border = Color3.fromRGB(88, 105, 62),  accent = Color3.fromRGB(155, 190, 100) },
-    { bg = Color3.fromRGB(38, 75, 80),  border = Color3.fromRGB(62, 112, 118), accent = Color3.fromRGB(100, 200, 210) },
-    { bg = Color3.fromRGB(40, 60, 85),  border = Color3.fromRGB(68, 95, 128),  accent = Color3.fromRGB(100, 162, 218) },
-    { bg = Color3.fromRGB(52, 62, 52),  border = Color3.fromRGB(80, 95, 80),   accent = Color3.fromRGB(138, 172, 138) },
+    { bg = Color3.fromRGB(45, 42, 38),  border = Color3.fromRGB(75, 70, 65),  accent = Color3.fromRGB(165, 155, 140) },
+    { bg = Color3.fromRGB(40, 43, 38),  border = Color3.fromRGB(68, 72, 65),  accent = Color3.fromRGB(150, 160, 140) },
+    { bg = Color3.fromRGB(38, 42, 45),  border = Color3.fromRGB(65, 70, 75),  accent = Color3.fromRGB(140, 155, 165) },
+    { bg = Color3.fromRGB(42, 40, 45),  border = Color3.fromRGB(70, 68, 75),  accent = Color3.fromRGB(155, 148, 168) },
+    { bg = Color3.fromRGB(40, 40, 40),  border = Color3.fromRGB(68, 68, 68),  accent = Color3.fromRGB(155, 155, 155) },
 }
 
 local C = {
